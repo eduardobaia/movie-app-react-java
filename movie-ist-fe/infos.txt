@@ -1,0 +1,30 @@
+dependencies
+
+AXIO
+
+npm install axios 
+
+To use bootstrap 
+
+npm install bootstrap
+npm i react-bootstrap
+
+font awesome 
+
+npm i @fortawesome/react-fontawesome 
+npm i @fortawesome/free-solid-svg-icons 
+
+TO play videos.
+npm i react-player 
+
+Relevant components
+dom.
+npm i react-router-dom
+
+To show releavnt movies, carousell
+
+npm i @mui/material @emotion/react @emotion/styled
+
+npm i react-material-ui-carousel  
+
+
